@@ -1,1 +1,1 @@
-database_password = "Charchar420" //password for user database
+database_password = "changepassword" //password for user database
