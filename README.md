@@ -44,6 +44,8 @@ This terraform projects creates
  <h3> everything is Automatic. This will provision all needed  aws resources and also build and start webserver using USERDATA </h3>
 
  <p>Destroy the resources          <code> terraform destroy -var-file="user.tfvars" </code></p>
+ 
+ https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04
 
 
 
